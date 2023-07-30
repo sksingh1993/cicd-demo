@@ -19,3 +19,5 @@ command: catalina.bat stop
 or 
 command: startup.bat
 command: shutdown.bat
+
+
